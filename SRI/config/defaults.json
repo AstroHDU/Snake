@@ -1,0 +1,15 @@
+{
+  "h_cross_kms": 5.0,
+  "outlier_prominence": 3.0,
+  "min_rv_sources": 3,
+  "gold_threshold": 0.7,
+  "silver_threshold": 0.5,
+  "affine_ridge": 0.1,
+  "cross_cap_single_largest": false,
+  "cross_aggregation": "mean_residual",
+  "spatial_cen_tested_edge_floor": true,
+  "spatial_cen_width_model": "smem_scatter",
+  "velocity_center_method": "component_median",
+  "use_uncertainty": true,
+  "spatial_mem_scale": 2.0
+}
